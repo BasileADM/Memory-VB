@@ -1,0 +1,4 @@
+basile;00:00:07
+basile;00:00:03
+Entrer norm;00:00:04
+Basile;00:00:13
